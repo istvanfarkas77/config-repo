@@ -1,1 +1,3 @@
 title: default stuff
+server:
+  port: 8081
